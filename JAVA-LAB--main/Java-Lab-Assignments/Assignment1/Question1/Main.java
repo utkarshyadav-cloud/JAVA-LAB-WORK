@@ -1,0 +1,14 @@
+/*
+ * Student Name: Utkarsh Yadav
+ * Student ID : bcs2025381
+ * Course: B.Tech CSE
+ * Subject: Introduction to Programming Using Java Lab (BCS351)
+ * Assignment: 1, Question: 1
+ */
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+        System.out.println("Welcome to Java");
+    }
+}
